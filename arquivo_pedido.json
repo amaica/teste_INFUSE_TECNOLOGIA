@@ -1,0 +1,113 @@
+[
+  {
+    "numeroControle": 12345,
+    "dataCadastro": "2024-04-09",
+    "nome": "Produto A",
+    "valor": 50.99,
+    "quantidade": 2,
+    "codigoCliente": 9876,
+    "desconto": 5.0,
+    "valorTotal": 95.98
+  },
+  {
+    "numeroControle": 54321,
+    "dataCadastro": "2024-04-08",
+    "nome": "Produto B",
+    "valor": 30.75,
+    "quantidade": 3,
+    "codigoCliente": 6543,
+    "desconto": 2.5,
+    "valorTotal": 89.25
+  },
+  {
+    "numeroControle": 98765,
+    "dataCadastro": "2024-04-07",
+    "nome": "Produto C",
+    "valor": 20.0,
+    "quantidade": 4,
+    "codigoCliente": 3210,
+    "desconto": 0.0,
+    "valorTotal": 80.0
+  },
+  {
+    "numeroControle": 24680,
+    "dataCadastro": "2024-04-06",
+    "nome": "Produto D",
+    "valor": 15.50,
+    "quantidade": 5,
+    "codigoCliente": 1357,
+    "desconto": 1.0,
+    "valorTotal": 72.5
+  },
+  {
+    "numeroControle": 13579,
+    "dataCadastro": "2024-04-05",
+    "nome": "Produto E",
+    "valor": 25.0,
+    "quantidade": 2,
+    "codigoCliente": 8642,
+    "desconto": 3.0,
+    "valorTotal": 47.0
+  },
+  {
+    "numeroControle": 99999,
+    "dataCadastro": "2024-04-04",
+    "nome": "Produto F",
+    "valor": 35.99,
+    "quantidade": 3,
+    "codigoCliente": 1111,
+    "desconto": 0.0,
+    "valorTotal": 107.97
+  },
+  {
+    "numeroControle": 88888,
+    "dataCadastro": "2024-04-03",
+    "nome": "Produto G",
+    "valor": 40.50,
+    "quantidade": 4,
+    "codigoCliente": 2222,
+    "desconto": 4.0,
+    "valorTotal": 154.0
+  },
+  {
+    "numeroControle": 77777,
+    "dataCadastro": "2024-04-02",
+    "nome": "Produto H",
+    "valor": 22.75,
+    "quantidade": 1,
+    "codigoCliente": 3333,
+    "desconto": 0.5,
+    "valorTotal": 22.25
+  },
+  {
+    "numeroControle": 66666,
+    "dataCadastro": "2024-04-01",
+    "nome": "Produto I",
+    "valor": 18.25,
+    "quantidade": 2,
+    "codigoCliente": 4444,
+    "desconto": 1.5,
+    "valorTotal": 34.0
+  },
+  {
+    "numeroControle": 55555,
+    "dataCadastro": "2024-03-31",
+    "nome": "Produto J",
+    "valor": 29.99,
+    "quantidade": 3,
+    "codigoCliente": 5555,
+    "desconto": 2.0,
+    "valorTotal": 85.97
+  },
+  {
+    "numeroControle": 44444,
+    "dataCadastro": "2024-03-30",
+    "nome": "Produto K",
+    "valor": 33.50,
+    "quantidade": 5,
+    "codigoCliente": 6666,
+    "desconto": 3.5,
+    "valorTotal": 158.5
+  }
+]
+

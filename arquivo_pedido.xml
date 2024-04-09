@@ -1,0 +1,23 @@
+<pedidos>
+  <pedido>
+    <numeroControle>12345</numeroControle>
+    <dataCadastro>2024-04-09</dataCadastro>
+    <nome>Produto A</nome>
+    <valor>50.99</valor>
+    <quantidade>2</quantidade>
+    <codigoCliente>9876</codigoCliente>
+    <desconto>5.0</desconto>
+    <valorTotal>95.98</valorTotal>
+  </pedido>
+  <pedido>
+    <numeroControle>54321</numeroControle>
+    <dataCadastro>2024-04-08</dataCadastro>
+    <nome>Produto B</nome>
+    <valor>30.75</valor>
+    <quantidade>3</quantidade>
+    <codigoCliente>6543</codigoCliente>
+    <desconto>2.5</desconto>
+    <valorTotal>89.25</valorTotal>
+  </pedido>
+</pedidos>
+

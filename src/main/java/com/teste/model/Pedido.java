@@ -18,24 +18,24 @@ public class Pedido implements Serializable {
 	private static final long serialVersionUID = 1L;
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name="ID")
+	@Column(name = "ID")
 	private Integer id;
-	@Column(name="NUMERO_CONTROLE")
-	private Integer numeroControle;	
+	@Column(name = "NUMERO_CONTROLE")
+	private Integer numeroControle;
 	@Column(name = "DATA_CADASTRO", nullable = true)
 	@Temporal(TemporalType.DATE)
 	private LocalDate dataCadastro;
-	@Column(name="NOME")
+	@Column(name = "NOME")
 	private String nome;
-	@Column(name="VALOR")
+	@Column(name = "VALOR")
 	private double valor;
-	@Column(name="QUANTIDADE",nullable = true)
+	@Column(name = "QUANTIDADE", nullable = true)
 	private Integer quantidade;
-	@Column(name="CODIGO_CLIENTE")
+	@Column(name = "CODIGO_CLIENTE")
 	private Integer codigoCliente;
-	@Column(name="DESCONTO")
+	@Column(name = "DESCONTO")
 	private double desconto = 0.0;
-	@Column(name="VALOR_TOTAL")
+	@Column(name = "VALOR_TOTAL")
 	private double valorTotal;
 
 	public Integer getNumeroControle() {
