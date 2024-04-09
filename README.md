@@ -15,6 +15,5 @@
     Embora não seja explicitamente mencionado nos códigos fornecidos, é comum utilizar DTOs para transferir dados entre as camadas da aplicação. O objeto Pedido poderia ser considerado um DTO, representando os dados do pedido que são transferidos entre o cliente e o servidor através das requisições HTTP.
 
     Padrão Factory (potencialmente)
-    Embora não seja explicitamente implementado nos códigos fornecidos, o padrão Factory pode ser aplicado para criar instâncias dos objetos necessários, como os serviços (PedidoService) ou repositórios (PedidoRepository). Isso pode ser feito por meio de uma fábrica de objetos, como um provedor de contexto de aplicação (ApplicationContextProvider) ou uma classe de fábrica dedicada.
+    Embora não seja explicitamente implementado nos códigos fornecidos, o padrão Factory pode ser aplicado para criar instâncias dos objetos necessários, como os serviços (PedidoService) ou repositórios (PedidoRepository).
 
-    Estes padrões são essenciais para o desenvolvimento de aplicações robustas e escaláveis em Java, promovendo boas práticas de desenvolvimento e facilitando a manutenção do código ao longo do tempo.
